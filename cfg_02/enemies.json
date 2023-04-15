@@ -10,7 +10,7 @@
             "b": 255
         },
         "velocity_min": 25,
-        "velocity_max": 25
+        "velocity_max": 26
     },
     "SmallB": {
         "size": {
@@ -23,6 +23,6 @@
             "b": 255
         },
         "velocity_min": 25,
-        "velocity_max": 25
+        "velocity_max": 26
     }
 }
